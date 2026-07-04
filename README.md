@@ -95,6 +95,8 @@ Player1: aaaa@bb.com / 123456
 
 Player2: cccc@dd.com / 123456
 
+(비밀번호 수정 기능을 firestore.rules의 변경으로 의도적으로 막아두었습니다.)
+
 
 ## 주의사항
 
