@@ -3,14 +3,9 @@
 다운로드 페이지: https://github.com/april4ys/letter-duet-dist
 
 
-Letter Duet은 드라코니언과 타키자토 후유가 개발해 초여명에서 한국어판으로 번역한 TRPG 룰인 언성듀엣과 관련하여
+Letter Duet은 드라코니언과 타키자토 후유가 개발해 초여명에서 한국어판으로 번역한 TRPG 룰인 언성듀엣과 관련하여 그 옵션룰인 레터세션(PBP, Play by Post형식)을 데스크톱 및 모바일 환경에서 편리하게 플레이하기 위해 ai를 활용하여 서서가 제작한 프로그램입니다.
 
-그 옵션룰인 레터세션(PBP, Play by Post형식)을 데스크톱 및 모바일 환경에서 편리하게 플레이하기 위한 프로그램입니다.
-
-
-그중 이 페이지에서 배포하는 Letter Duet Dist(배포판)은 이러한 Letter Duet을 비개발자도 편리하게 이용할 수 있게끔
-
-정적호스팅(예: Github Pages)과 Firebase Console만으로 실행할 수 있게 수정한 정적 배포판입니다.
+그중 이 페이지에서 배포하는 Letter Duet Dist(배포판)은 이러한 Letter Duet을 비개발자도 편리하게 이용할 수 있게끔 정적호스팅(예: Github Pages)과 Firebase Console만으로 실행할 수 있게 수정한 정적 배포판입니다.
 
 
 ## Firebase 준비
